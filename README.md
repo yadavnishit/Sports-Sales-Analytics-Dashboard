@@ -1,4 +1,4 @@
-# Sports-Sales-Analytics-Dashboar
+# Sports-Sales-Analytics-Dashboard
 
 # 🏆 Sports Sales Analytics Dashboard
 
